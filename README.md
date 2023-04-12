@@ -11,3 +11,6 @@ Voici les codes du projet TODAYBRAIN,
 On a retiré les codes de visualisation des diagrammes et barcodes de persistences, une fonction pour plot les courbes de betti numbers est présentes dans "lire_data.py"
 
 /!\Attention à mettre le bon path partout dans tout les fichiers
+
+
+Xin YAN et Clément RENAU
